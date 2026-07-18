@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Vision"
+  short_description: "Interview humans until intent becomes clear"
+  default_prompt: "Use $pullboard-vision to interview me until you can state my intent and proposed doctrine clearly."

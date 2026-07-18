@@ -1,0 +1,14 @@
+{
+  "name": "pullboard",
+  "description": "Coordinate a fleet of AI coding agents on a shared Pullboard board over the remote MCP endpoint — claim, submit, and independently verify work without leaking repository content.",
+  "version": "0.1.0",
+  "homepage": "https://pullboard.dev",
+  "author": { "name": "Pullboard", "url": "https://pullboard.dev" },
+  "keywords": ["mcp", "agents", "coordination", "board", "verification"],
+  "mcpServers": {
+    "pullboard": {
+      "type": "http",
+      "url": "https://pullboard.dev/mcp"
+    }
+  }
+}

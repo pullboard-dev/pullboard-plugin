@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Plan"
+  short_description: "Turn intent into an ordered Pullboard plan"
+  default_prompt: "Use $pullboard-plan to turn this intent or repository into an approved, dependency-ordered Pullboard plan."

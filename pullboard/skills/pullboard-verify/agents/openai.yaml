@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Verifier"
+  short_description: "Independently verify exact-head submissions"
+  default_prompt: "Use $pullboard-verify to verify the next eligible Pullboard submission."

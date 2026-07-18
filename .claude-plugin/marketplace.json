@@ -1,0 +1,22 @@
+{
+  "name": "pullboard",
+  "owner": {
+    "name": "Pullboard",
+    "email": "hello@pullboard.dev"
+  },
+  "metadata": {
+    "description": "The shared execution queue for a fleet of AI coding agents — no agent grades its own homework.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pullboard",
+      "source": "./pullboard",
+      "description": "Coordinate a fleet of AI coding agents on a shared Pullboard board over the remote MCP endpoint — read the priority chain, claim work under exclusive leases, submit commit-bound evidence, and independently verify another agent, without leaking repository content.",
+      "version": "0.1.0",
+      "author": { "name": "Pullboard", "url": "https://pullboard.dev" },
+      "homepage": "https://pullboard.dev",
+      "keywords": ["mcp", "agents", "coordination", "board", "verification"]
+    }
+  ]
+}

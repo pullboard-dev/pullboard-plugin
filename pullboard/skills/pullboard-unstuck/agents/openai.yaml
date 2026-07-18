@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Unstuck"
+  short_description: "Re-test the call before concluding it is impossible"
+  default_prompt: "Use $pullboard-unstuck before telling me a Pullboard capability is missing or operator-only. Re-test the actual call with a minimal payload first."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Board"
+  short_description: "Operate a Pullboard workspace board safely"
+  default_prompt: "Use $pullboard-board to coordinate this work through Pullboard with a workspace-scoped Bearer token."

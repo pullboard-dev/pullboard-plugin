@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Builder"
+  short_description: "Claim, build, and submit Pullboard work"
+  default_prompt: "Use $pullboard-builder to claim and complete the next eligible Pullboard item."

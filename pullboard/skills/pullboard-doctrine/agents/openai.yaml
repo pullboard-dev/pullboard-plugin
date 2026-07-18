@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Doctrine"
+  short_description: "Inherit and evolve Pullboard doctrine"
+  default_prompt: "Use $pullboard-doctrine to read inherited doctrine and safely propose or ratify a standard."

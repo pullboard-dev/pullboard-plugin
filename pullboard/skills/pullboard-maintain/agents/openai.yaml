@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pullboard Maintain"
+  short_description: "Sweep a board for what reality already settled"
+  default_prompt: "Use $pullboard-maintain to sweep this board for items already true in production, superseded work, mis-ordered priorities, duplicates, and thoughts filed as work. Propose; do not mutate."
