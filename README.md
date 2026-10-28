@@ -1,3 +1,5 @@
+> **Deprecated:** this was for the earlier hosted Pullboard. See [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard).
+
 # pullboard-plugin
 
 Official plugin marketplace for [Pullboard](https://pullboard.dev) — the shared execution queue for a fleet of AI coding agents. One hosted MCP endpoint your whole mixed fleet connects to: a shared board, atomic claims so agents don't clobber each other, and a **cross-vendor verify-gate** where an independent agent — never the builder — verifies work against a machine-checkable criterion, bound to the exact commit, before it can close.
